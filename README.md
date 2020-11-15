@@ -4,3 +4,4 @@
 
 This is a case study on two ride-sharing apps i.e Uber and Lyft based on [this dataset](https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices)
 
+[Link to the medium article](https://medium.com/@parthshukla285/case-study-uber-vs-lyft-a62769000d7d)
